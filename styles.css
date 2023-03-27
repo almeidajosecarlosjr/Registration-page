@@ -13,7 +13,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: #0c0ce94d;
+    background: linear-gradient(to bottom, #ff69b4, #ffffff);
+
 }
 
 .container {
